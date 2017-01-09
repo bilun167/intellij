@@ -1,0 +1,116 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/zendesk/link_dataflow" />
+        <option value="$USER_HOME$/Code/zopim/zopim-metrics-pipelines" />
+        <option value="$USER_HOME$/Code/DataflowJavaSDK-examples" />
+        <option value="$USER_HOME$/Code/jbot" />
+        <option value="$USER_HOME$/Code/cloud-pubsub-samples-java" />
+        <option value="$USER_HOME$/Code/pubsub/load-test-framework" />
+        <option value="$USER_HOME$/Code/pubsub" />
+        <option value="$USER_HOME$/Code/DataflowJavaSDK" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Code/zopim/zopim-metrics-pipelines" />
+        <option value="$USER_HOME$/Code/zendesk/link_dataflow" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Code/zendesk/link_dataflow" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/DataflowJavaSDK">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.7743.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480063612166" />
+              <option name="buildTimestamp" value="1479418470056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/DataflowJavaSDK-examples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.7743.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482851291347" />
+              <option name="buildTimestamp" value="1479418460728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/cloud-pubsub-samples-java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.7743.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482801413489" />
+              <option name="buildTimestamp" value="1479418460728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/jbot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.7743.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482828780526" />
+              <option name="buildTimestamp" value="1479418460728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/pubsub">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.7743.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482417903382" />
+              <option name="buildTimestamp" value="1479418492449" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/pubsub/load-test-framework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.7743.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1482420445521" />
+              <option name="buildTimestamp" value="1479418453727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/zendesk/link_dataflow">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.10154.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483685183291" />
+              <option name="buildTimestamp" value="1482332112766" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/zopim/zopim-metrics-pipelines">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-163.10154.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483685178098" />
+              <option name="buildTimestamp" value="1482332112766" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Code" />
+  </component>
+</application>
